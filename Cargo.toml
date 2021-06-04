@@ -8,7 +8,6 @@ repository = "https://github.com/tom25519/sodium-alloc"
 license = "MIT OR Apache-2.0"
 keywords = ["allocator", "alloc", "libsodium", "memory", "sodium"]
 categories = ["api-bindings", "memory-management"]
-publish = false
 
 [dependencies]
 libsodium-sys = "^0.2.6"

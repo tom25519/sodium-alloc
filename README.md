@@ -1,4 +1,7 @@
 # sodium-alloc
+[![crates.io](https://img.shields.io/crates/v/sodium-alloc.svg)](https://crates.io/crate/sodium-alloc)
+[![docs.rs](https://docs.rs/sodium-alloc/badge.svg)](https://docs.rs/sodium-alloc)
+
 Rust [`Allocator`](https://doc.rust-lang.org/std/alloc/trait.Allocator.html)
 type that allocates memory using [Sodium](https://doc.libsodium.org/)'s secure
 memory utilities.
