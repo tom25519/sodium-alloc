@@ -8,7 +8,7 @@ memory utilities.
 
 **Requires nightly Rust**, as the `Allocator` API is not yet stable.
 
-This library implements [`SodiumAllocator`], an `Allocator` which uses the
+This library implements `SodiumAllocator`, an `Allocator` which uses the
 [`sodium_malloc`](https://doc.libsodium.org/memory_management#guarded-heap-allocations)
 and corresponding `sodium_free` functions to manage memory. When managing
 sensitive data in memory, there are a number of steps we can take to help harden
