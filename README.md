@@ -37,6 +37,20 @@ allocator, and the implementation is more likely to encounter errors. It is
 intended for use when allocating sensitive data types only, for example, a key
 or password which needs to be stored in memory.
 
+## Security/Vulnerability Disclosures
+If you find a vulnerability in sodium-alloc, please immediately contact
+`tom25519@pm.me` with details.
+
+My [age](https://github.com/FiloSottile/age) public key (preferred) is:
+
+```text
+age1gglesedq4m2z9kc7urjhq3zlpc6qewcwpcna7s0lwh8k2c4e6fxqf3kdvq
+```
+
+My PGP public key has fingerprint `0x4712EC7C9F404B14`, and is available from
+[keyserver.ubuntu.com](https://keyserver.ubuntu.com) or
+[pgp.mit.edu](https://pgp.mit.edu/).
+
 ## License
 Licensed under either of:
 
