@@ -1,5 +1,5 @@
 # sodium-alloc
-[![crates.io](https://img.shields.io/crates/v/sodium-alloc.svg)](https://crates.io/crate/sodium-alloc)
+[![crates.io](https://img.shields.io/crates/v/sodium-alloc.svg)](https://crates.io/crates/sodium-alloc)
 [![docs.rs](https://docs.rs/sodium-alloc/badge.svg)](https://docs.rs/sodium-alloc)
 
 Rust [`Allocator`](https://doc.rust-lang.org/std/alloc/trait.Allocator.html)
