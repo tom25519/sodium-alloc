@@ -65,7 +65,7 @@
 //! let key = Box::new_in([0xca, 0xfe, 0xba, 0xbe], SodiumAllocator);
 //! println!("{:x?}", key);
 //! ```
-#![doc(html_root_url = "https://docs.rs/sodium-alloc/0.1.0")]
+#![doc(html_root_url = "https://docs.rs/sodium-alloc/0.1.1")]
 #![feature(allocator_api)]
 #![feature(nonnull_slice_from_raw_parts)]
 #![feature(slice_ptr_get)]

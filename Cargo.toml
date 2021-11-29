@@ -1,6 +1,6 @@
 [package]
 name = "sodium-alloc"
-version = "0.1.0" # remember to update html_root_url
+version = "0.1.1" # remember to update html_root_url
 authors = ["tom25519 <tom25519@pm.me>"]
 edition = "2018"
 description = "Allocator type that allocates memory using Sodium's secure memory utilities"
@@ -10,4 +10,4 @@ keywords = ["allocator", "alloc", "libsodium", "memory", "sodium"]
 categories = ["api-bindings", "memory-management"]
 
 [dependencies]
-libsodium-sys = "^0.2.6"
+libsodium-sys-stable = "1.19.19"
